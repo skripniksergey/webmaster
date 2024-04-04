@@ -1,0 +1,22 @@
+body {
+  background-color: #20B2AA;
+}
+p {
+  color: #FFF8DC;
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+a {
+ color: #F0F8FF; 
+}
